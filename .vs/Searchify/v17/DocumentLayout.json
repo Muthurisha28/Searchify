@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\Deepak\\Desktop\\Searchify\\Searchify\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A190F853-0EFF-4D2C-8825-8E522E61D7FF}|TestProject\\TestProject.csproj|c:\\users\\deepak\\desktop\\searchify\\searchify\\testproject\\controllertests\\productscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A190F853-0EFF-4D2C-8825-8E522E61D7FF}|TestProject\\TestProject.csproj|solutionrelative:testproject\\controllertests\\productscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A190F853-0EFF-4D2C-8825-8E522E61D7FF}|TestProject\\TestProject.csproj|c:\\users\\deepak\\desktop\\searchify\\searchify\\testproject\\testproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A190F853-0EFF-4D2C-8825-8E522E61D7FF}|TestProject\\TestProject.csproj|solutionrelative:testproject\\testproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A190F853-0EFF-4D2C-8825-8E522E61D7FF}|TestProject\\TestProject.csproj|c:\\users\\deepak\\desktop\\searchify\\searchify\\testproject\\dataaccesslayertests\\productrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A190F853-0EFF-4D2C-8825-8E522E61D7FF}|TestProject\\TestProject.csproj|solutionrelative:testproject\\dataaccesslayertests\\productrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84CC9819-2CF9-4928-8086-330D9B791C35}|Searchify\\Searchify.csproj|c:\\users\\deepak\\desktop\\searchify\\searchify\\searchify\\searchify.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{84CC9819-2CF9-4928-8086-330D9B791C35}|Searchify\\Searchify.csproj|solutionrelative:searchify\\searchify.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{84CC9819-2CF9-4928-8086-330D9B791C35}|Searchify\\Searchify.csproj|c:\\users\\deepak\\desktop\\searchify\\searchify\\searchify\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{84CC9819-2CF9-4928-8086-330D9B791C35}|Searchify\\Searchify.csproj|solutionrelative:searchify\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,32 +27,20 @@
       "RelativeMoniker": "D:0:0:{84CC9819-2CF9-4928-8086-330D9B791C35}|Searchify\\Searchify.csproj|solutionrelative:searchify\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84CC9819-2CF9-4928-8086-330D9B791C35}|Searchify\\Searchify.csproj|c:\\users\\deepak\\desktop\\searchify\\searchify\\searchify\\core\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84CC9819-2CF9-4928-8086-330D9B791C35}|Searchify\\Searchify.csproj|solutionrelative:searchify\\core\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84CC9819-2CF9-4928-8086-330D9B791C35}|Searchify\\Searchify.csproj|c:\\users\\deepak\\desktop\\searchify\\searchify\\searchify\\tests\\dataaccesslayertests\\productrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84CC9819-2CF9-4928-8086-330D9B791C35}|Searchify\\Searchify.csproj|solutionrelative:searchify\\tests\\dataaccesslayertests\\productrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84CC9819-2CF9-4928-8086-330D9B791C35}|Searchify\\Searchify.csproj|c:\\users\\deepak\\desktop\\searchify\\searchify\\searchify\\tests\\commandhandlertests\\getallproductscommandhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84CC9819-2CF9-4928-8086-330D9B791C35}|Searchify\\Searchify.csproj|solutionrelative:searchify\\tests\\commandhandlertests\\getallproductscommandhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84CC9819-2CF9-4928-8086-330D9B791C35}|Searchify\\Searchify.csproj|c:\\users\\deepak\\desktop\\searchify\\searchify\\searchify\\tests\\controllertests\\productscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84CC9819-2CF9-4928-8086-330D9B791C35}|Searchify\\Searchify.csproj|solutionrelative:searchify\\tests\\controllertests\\productscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84CC9819-2CF9-4928-8086-330D9B791C35}|Searchify\\Searchify.csproj|c:\\users\\deepak\\desktop\\searchify\\searchify\\searchify\\tests\\servicetests\\productservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84CC9819-2CF9-4928-8086-330D9B791C35}|Searchify\\Searchify.csproj|solutionrelative:searchify\\tests\\servicetests\\productservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84CC9819-2CF9-4928-8086-330D9B791C35}|Searchify\\Searchify.csproj|c:\\users\\deepak\\desktop\\searchify\\searchify\\searchify\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{84CC9819-2CF9-4928-8086-330D9B791C35}|Searchify\\Searchify.csproj|solutionrelative:searchify\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{84CC9819-2CF9-4928-8086-330D9B791C35}|Searchify\\Searchify.csproj|c:\\users\\deepak\\desktop\\searchify\\searchify\\searchify\\dataaccesslayer\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84CC9819-2CF9-4928-8086-330D9B791C35}|Searchify\\Searchify.csproj|solutionrelative:searchify\\dataaccesslayer\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{84CC9819-2CF9-4928-8086-330D9B791C35}|Searchify\\Searchify.csproj|c:\\users\\deepak\\desktop\\searchify\\searchify\\searchify\\dataaccesslayer\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{84CC9819-2CF9-4928-8086-330D9B791C35}|Searchify\\Searchify.csproj|solutionrelative:searchify\\dataaccesslayer\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84CC9819-2CF9-4928-8086-330D9B791C35}|Searchify\\Searchify.csproj|c:\\users\\deepak\\desktop\\searchify\\searchify\\searchify\\core\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84CC9819-2CF9-4928-8086-330D9B791C35}|Searchify\\Searchify.csproj|solutionrelative:searchify\\core\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84CC9819-2CF9-4928-8086-330D9B791C35}|Searchify\\Searchify.csproj|c:\\users\\deepak\\desktop\\searchify\\searchify\\searchify\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{84CC9819-2CF9-4928-8086-330D9B791C35}|Searchify\\Searchify.csproj|solutionrelative:searchify\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{84CC9819-2CF9-4928-8086-330D9B791C35}|Searchify\\Searchify.csproj|c:\\users\\deepak\\desktop\\searchify\\searchify\\searchify\\businesslayer\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -61,14 +65,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{84CC9819-2CF9-4928-8086-330D9B791C35}|Searchify\\Searchify.csproj|c:\\users\\deepak\\desktop\\searchify\\searchify\\searchify\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{84CC9819-2CF9-4928-8086-330D9B791C35}|Searchify\\Searchify.csproj|solutionrelative:searchify\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84CC9819-2CF9-4928-8086-330D9B791C35}|Searchify\\Searchify.csproj|c:\\users\\deepak\\desktop\\searchify\\searchify\\searchify\\searchify.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{84CC9819-2CF9-4928-8086-330D9B791C35}|Searchify\\Searchify.csproj|solutionrelative:searchify\\searchify.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84CC9819-2CF9-4928-8086-330D9B791C35}|Searchify\\Searchify.csproj|c:\\users\\deepak\\desktop\\searchify\\searchify\\searchify\\dataaccesslayer\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84CC9819-2CF9-4928-8086-330D9B791C35}|Searchify\\Searchify.csproj|solutionrelative:searchify\\dataaccesslayer\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{84CC9819-2CF9-4928-8086-330D9B791C35}|Searchify\\Searchify.csproj|c:\\users\\deepak\\desktop\\searchify\\searchify\\searchify\\mediators\\commandhandlers\\getproductbyidcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -110,67 +106,120 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Deepak\\Desktop\\Searchify\\Searchify\\TestProject\\ControllerTests\\ProductsControllerTests.cs",
+              "RelativeDocumentMoniker": "TestProject\\ControllerTests\\ProductsControllerTests.cs",
+              "ToolTip": "C:\\Users\\Deepak\\Desktop\\Searchify\\Searchify\\TestProject\\ControllerTests\\ProductsControllerTests.cs",
+              "RelativeToolTip": "TestProject\\ControllerTests\\ProductsControllerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T10:21:53.969Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Deepak\\Desktop\\Searchify\\Searchify\\Searchify\\appsettings.json",
-              "RelativeDocumentMoniker": "Searchify\\appsettings.json",
-              "ToolTip": "C:\\Users\\Deepak\\Desktop\\Searchify\\Searchify\\Searchify\\appsettings.json",
-              "RelativeToolTip": "Searchify\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-18T10:17:53.21Z",
+              "DocumentIndex": 2,
+              "Title": "ProductRepositoryTests.cs",
+              "DocumentMoniker": "C:\\Users\\Deepak\\Desktop\\Searchify\\Searchify\\TestProject\\DataAccessLayerTests\\ProductRepositoryTests.cs",
+              "RelativeDocumentMoniker": "TestProject\\DataAccessLayerTests\\ProductRepositoryTests.cs",
+              "ToolTip": "C:\\Users\\Deepak\\Desktop\\Searchify\\Searchify\\TestProject\\DataAccessLayerTests\\ProductRepositoryTests.cs",
+              "RelativeToolTip": "TestProject\\DataAccessLayerTests\\ProductRepositoryTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T11:19:59.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestProject.csproj",
+              "DocumentMoniker": "C:\\Users\\Deepak\\Desktop\\Searchify\\Searchify\\TestProject\\TestProject.csproj",
+              "RelativeDocumentMoniker": "TestProject\\TestProject.csproj",
+              "ToolTip": "C:\\Users\\Deepak\\Desktop\\Searchify\\Searchify\\TestProject\\TestProject.csproj",
+              "RelativeToolTip": "TestProject\\TestProject.csproj",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-21T07:02:45.532Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "ProductServiceTests.cs",
-              "DocumentMoniker": "C:\\Users\\Deepak\\Desktop\\Searchify\\Searchify\\Searchify\\Tests\\ServiceTests\\ProductServiceTests.cs",
-              "RelativeDocumentMoniker": "Searchify\\Tests\\ServiceTests\\ProductServiceTests.cs",
-              "ToolTip": "C:\\Users\\Deepak\\Desktop\\Searchify\\Searchify\\Searchify\\Tests\\ServiceTests\\ProductServiceTests.cs",
-              "RelativeToolTip": "Searchify\\Tests\\ServiceTests\\ProductServiceTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAABOAAAAAAAAAA==",
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Deepak\\Desktop\\Searchify\\Searchify\\Searchify\\DataAccessLayer\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Searchify\\DataAccessLayer\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Deepak\\Desktop\\Searchify\\Searchify\\Searchify\\DataAccessLayer\\AppDbContext.cs",
+              "RelativeToolTip": "Searchify\\DataAccessLayer\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T17:18:24.562Z",
+              "WhenOpened": "2025-01-18T05:56:57.915Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "C:\\Users\\Deepak\\Desktop\\Searchify\\Searchify\\Searchify\\BusinessLayer\\ProductService.cs",
-              "RelativeDocumentMoniker": "Searchify\\BusinessLayer\\ProductService.cs",
-              "ToolTip": "C:\\Users\\Deepak\\Desktop\\Searchify\\Searchify\\Searchify\\BusinessLayer\\ProductService.cs",
-              "RelativeToolTip": "Searchify\\BusinessLayer\\ProductService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBIAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T05:58:11.701Z",
+              "DocumentIndex": 3,
+              "Title": "Searchify.csproj",
+              "DocumentMoniker": "C:\\Users\\Deepak\\Desktop\\Searchify\\Searchify\\Searchify\\Searchify.csproj",
+              "RelativeDocumentMoniker": "Searchify\\Searchify.csproj",
+              "ToolTip": "C:\\Users\\Deepak\\Desktop\\Searchify\\Searchify\\Searchify\\Searchify.csproj",
+              "RelativeToolTip": "Searchify\\Searchify.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-18T05:52:42.065Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "GetAllProductsCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Deepak\\Desktop\\Searchify\\Searchify\\Searchify\\Mediators\\CommandHandlers\\GetAllProductsCommandHandler.cs",
-              "RelativeDocumentMoniker": "Searchify\\Mediators\\CommandHandlers\\GetAllProductsCommandHandler.cs",
-              "ToolTip": "C:\\Users\\Deepak\\Desktop\\Searchify\\Searchify\\Searchify\\Mediators\\CommandHandlers\\GetAllProductsCommandHandler.cs",
-              "RelativeToolTip": "Searchify\\Mediators\\CommandHandlers\\GetAllProductsCommandHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAzAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Deepak\\Desktop\\Searchify\\Searchify\\Searchify\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Searchify\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Deepak\\Desktop\\Searchify\\Searchify\\Searchify\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Searchify\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAArwEAAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T14:05:26.73Z",
+              "WhenOpened": "2025-01-18T05:52:09.42Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Deepak\\Desktop\\Searchify\\Searchify\\Searchify\\Program.cs",
+              "RelativeDocumentMoniker": "Searchify\\Program.cs",
+              "ToolTip": "C:\\Users\\Deepak\\Desktop\\Searchify\\Searchify\\Searchify\\Program.cs",
+              "RelativeToolTip": "Searchify\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwCQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T07:15:38.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Deepak\\Desktop\\Searchify\\Searchify\\Searchify\\DataAccessLayer\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Searchify\\DataAccessLayer\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Deepak\\Desktop\\Searchify\\Searchify\\Searchify\\DataAccessLayer\\ProductRepository.cs",
+              "RelativeToolTip": "Searchify\\DataAccessLayer\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T05:57:52.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\Deepak\\Desktop\\Searchify\\Searchify\\Searchify\\Core\\Model\\Product.cs",
               "RelativeDocumentMoniker": "Searchify\\Core\\Model\\Product.cs",
@@ -183,85 +232,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Deepak\\Desktop\\Searchify\\Searchify\\Searchify\\Program.cs",
-              "RelativeDocumentMoniker": "Searchify\\Program.cs",
-              "ToolTip": "C:\\Users\\Deepak\\Desktop\\Searchify\\Searchify\\Searchify\\Program.cs",
-              "RelativeToolTip": "Searchify\\Program.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAkwEUAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T07:15:38.158Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "C:\\Users\\Deepak\\Desktop\\Searchify\\Searchify\\Searchify\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "Searchify\\Controllers\\ProductsController.cs",
-              "ToolTip": "C:\\Users\\Deepak\\Desktop\\Searchify\\Searchify\\Searchify\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "Searchify\\Controllers\\ProductsController.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAgwBkAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T05:52:09.42Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProductRepositoryTests.cs",
-              "DocumentMoniker": "C:\\Users\\Deepak\\Desktop\\Searchify\\Searchify\\Searchify\\Tests\\DataAccessLayerTests\\ProductRepositoryTests.cs",
-              "RelativeDocumentMoniker": "Searchify\\Tests\\DataAccessLayerTests\\ProductRepositoryTests.cs",
-              "ToolTip": "C:\\Users\\Deepak\\Desktop\\Searchify\\Searchify\\Searchify\\Tests\\DataAccessLayerTests\\ProductRepositoryTests.cs",
-              "RelativeToolTip": "Searchify\\Tests\\DataAccessLayerTests\\ProductRepositoryTests.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAYwAEAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T17:33:20.757Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ProductsControllerTests.cs",
-              "DocumentMoniker": "C:\\Users\\Deepak\\Desktop\\Searchify\\Searchify\\Searchify\\Tests\\ControllerTests\\ProductsControllerTests.cs",
-              "RelativeDocumentMoniker": "Searchify\\Tests\\ControllerTests\\ProductsControllerTests.cs",
-              "ToolTip": "C:\\Users\\Deepak\\Desktop\\Searchify\\Searchify\\Searchify\\Tests\\ControllerTests\\ProductsControllerTests.cs",
-              "RelativeToolTip": "Searchify\\Tests\\ControllerTests\\ProductsControllerTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGcAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T15:18:40.434Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "GetAllProductsCommandHandlerTests.cs",
-              "DocumentMoniker": "C:\\Users\\Deepak\\Desktop\\Searchify\\Searchify\\Searchify\\Tests\\CommandHandlerTests\\GetAllProductsCommandHandlerTests.cs",
-              "RelativeDocumentMoniker": "Searchify\\Tests\\CommandHandlerTests\\GetAllProductsCommandHandlerTests.cs",
-              "ToolTip": "C:\\Users\\Deepak\\Desktop\\Searchify\\Searchify\\Searchify\\Tests\\CommandHandlerTests\\GetAllProductsCommandHandlerTests.cs",
-              "RelativeToolTip": "Searchify\\Tests\\CommandHandlerTests\\GetAllProductsCommandHandlerTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T16:58:24.731Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Deepak\\Desktop\\Searchify\\Searchify\\Searchify\\DataAccessLayer\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "Searchify\\DataAccessLayer\\ProductRepository.cs",
-              "ToolTip": "C:\\Users\\Deepak\\Desktop\\Searchify\\Searchify\\Searchify\\DataAccessLayer\\ProductRepository.cs",
-              "RelativeToolTip": "Searchify\\DataAccessLayer\\ProductRepository.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAYwA4AAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T05:57:52.935Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 11,
+              "Title": "GetAllProductsCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Deepak\\Desktop\\Searchify\\Searchify\\Searchify\\Mediators\\CommandHandlers\\GetAllProductsCommandHandler.cs",
+              "RelativeDocumentMoniker": "Searchify\\Mediators\\CommandHandlers\\GetAllProductsCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Deepak\\Desktop\\Searchify\\Searchify\\Searchify\\Mediators\\CommandHandlers\\GetAllProductsCommandHandler.cs",
+              "RelativeToolTip": "Searchify\\Mediators\\CommandHandlers\\GetAllProductsCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T14:05:26.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Deepak\\Desktop\\Searchify\\Searchify\\Searchify\\BusinessLayer\\ProductService.cs",
+              "RelativeDocumentMoniker": "Searchify\\BusinessLayer\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Deepak\\Desktop\\Searchify\\Searchify\\Searchify\\BusinessLayer\\ProductService.cs",
+              "RelativeToolTip": "Searchify\\BusinessLayer\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T05:58:11.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Deepak\\Desktop\\Searchify\\Searchify\\Searchify\\appsettings.json",
+              "RelativeDocumentMoniker": "Searchify\\appsettings.json",
+              "ToolTip": "C:\\Users\\Deepak\\Desktop\\Searchify\\Searchify\\Searchify\\appsettings.json",
+              "RelativeToolTip": "Searchify\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-18T10:17:53.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "AuthenticateService.cs",
               "DocumentMoniker": "C:\\Users\\Deepak\\Desktop\\Searchify\\Searchify\\Searchify\\BusinessLayer\\AuthenticateService.cs",
               "RelativeDocumentMoniker": "Searchify\\BusinessLayer\\AuthenticateService.cs",
@@ -274,7 +284,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "AuthenticateCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\Deepak\\Desktop\\Searchify\\Searchify\\Searchify\\Mediators\\CommandHandlers\\AuthenticateCommandHandler.cs",
               "RelativeDocumentMoniker": "Searchify\\Mediators\\CommandHandlers\\AuthenticateCommandHandler.cs",
@@ -287,7 +297,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "AuthenticateCommand.cs",
               "DocumentMoniker": "C:\\Users\\Deepak\\Desktop\\Searchify\\Searchify\\Searchify\\Mediators\\Commands\\AuthenticateCommand.cs",
               "RelativeDocumentMoniker": "Searchify\\Mediators\\Commands\\AuthenticateCommand.cs",
@@ -300,7 +310,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "LoginController.cs",
               "DocumentMoniker": "C:\\Users\\Deepak\\Desktop\\Searchify\\Searchify\\Searchify\\Controllers\\LoginController.cs",
               "RelativeDocumentMoniker": "Searchify\\Controllers\\LoginController.cs",
@@ -313,33 +323,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Searchify.csproj",
-              "DocumentMoniker": "C:\\Users\\Deepak\\Desktop\\Searchify\\Searchify\\Searchify\\Searchify.csproj",
-              "RelativeDocumentMoniker": "Searchify\\Searchify.csproj",
-              "ToolTip": "C:\\Users\\Deepak\\Desktop\\Searchify\\Searchify\\Searchify\\Searchify.csproj",
-              "RelativeToolTip": "Searchify\\Searchify.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-18T05:52:42.065Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Deepak\\Desktop\\Searchify\\Searchify\\Searchify\\DataAccessLayer\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Searchify\\DataAccessLayer\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\Deepak\\Desktop\\Searchify\\Searchify\\Searchify\\DataAccessLayer\\AppDbContext.cs",
-              "RelativeToolTip": "Searchify\\DataAccessLayer\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T05:56:57.915Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
               "Title": "GetProductByIdCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\Deepak\\Desktop\\Searchify\\Searchify\\Searchify\\Mediators\\CommandHandlers\\GetProductByIdCommandHandler.cs",
               "RelativeDocumentMoniker": "Searchify\\Mediators\\CommandHandlers\\GetProductByIdCommandHandler.cs",
@@ -352,7 +336,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 18,
               "Title": "GetProductByIdCommand.cs",
               "DocumentMoniker": "C:\\Users\\Deepak\\Desktop\\Searchify\\Searchify\\Searchify\\Mediators\\Commands\\GetProductByIdCommand.cs",
               "RelativeDocumentMoniker": "Searchify\\Mediators\\Commands\\GetProductByIdCommand.cs",
@@ -365,7 +349,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 17,
               "Title": "GetAllProductsCommand.cs",
               "DocumentMoniker": "C:\\Users\\Deepak\\Desktop\\Searchify\\Searchify\\Searchify\\Mediators\\Commands\\GetAllProductsCommand.cs",
               "RelativeDocumentMoniker": "Searchify\\Mediators\\Commands\\GetAllProductsCommand.cs",
@@ -378,7 +362,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 19,
               "Title": "IAuthenticateService.cs",
               "DocumentMoniker": "C:\\Users\\Deepak\\Desktop\\Searchify\\Searchify\\Searchify\\Core\\Interfaces\\IAuthenticateService.cs",
               "RelativeDocumentMoniker": "Searchify\\Core\\Interfaces\\IAuthenticateService.cs",
@@ -391,7 +375,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 20,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\Deepak\\Desktop\\Searchify\\Searchify\\Searchify\\Core\\Model\\User.cs",
               "RelativeDocumentMoniker": "Searchify\\Core\\Model\\User.cs",
@@ -404,7 +388,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 21,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\Deepak\\Desktop\\Searchify\\Searchify\\Searchify\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Searchify\\Properties\\launchSettings.json",
@@ -417,7 +401,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 23,
               "Title": "IProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\Deepak\\Desktop\\Searchify\\Searchify\\Searchify\\Core\\Interfaces\\IProductRepository.cs",
               "RelativeDocumentMoniker": "Searchify\\Core\\Interfaces\\IProductRepository.cs",
@@ -430,7 +414,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 22,
               "Title": "IProductService.cs",
               "DocumentMoniker": "C:\\Users\\Deepak\\Desktop\\Searchify\\Searchify\\Searchify\\Core\\Interfaces\\IProductService.cs",
               "RelativeDocumentMoniker": "Searchify\\Core\\Interfaces\\IProductService.cs",

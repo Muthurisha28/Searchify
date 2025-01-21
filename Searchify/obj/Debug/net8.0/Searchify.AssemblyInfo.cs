@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Searchify")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a5a307d7c7793bbfe391ccc0d2c03d3e299b5785")]
 [assembly: System.Reflection.AssemblyProductAttribute("Searchify")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Searchify")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
