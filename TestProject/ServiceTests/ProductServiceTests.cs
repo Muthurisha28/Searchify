@@ -1,14 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Moq;
-using Searchify.BusinessLayer;
-using Searchify.Core.Interfaces;
-using Searchify.Core.Model;
+﻿using Moq;
+using Searchify.Domain.Interfaces;
+using Searchify.Domain.Model;
+using Searchify.Infrastructure.Services;
 
-namespace TestProject.ServiceTests
+namespace Searchify.Test.ServiceTests
 {
     public class ProductServiceTests
     {
@@ -116,4 +111,4 @@ namespace TestProject.ServiceTests
         }
     }
 }
-    
+

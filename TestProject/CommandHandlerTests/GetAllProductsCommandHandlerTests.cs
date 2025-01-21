@@ -1,10 +1,10 @@
 ﻿using Moq;
-using Searchify.Core.Interfaces;
-using Searchify.Core.Model;
-using Searchify.Mediators.CommandHandlers;
-using Searchify.Mediators.Commands;
+using Searchify.Application.CommandHandlers;
+using Searchify.Application.Commands;
+using Searchify.Domain.Interfaces;
+using Searchify.Domain.Model;
 
-namespace TestProject.CommandHandlerTests
+namespace Searchify.Test.CommandHandlerTests
 {
     public class GetAllProductsCommandHandlerTests
     {

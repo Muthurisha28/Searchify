@@ -1,13 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Microsoft.EntityFrameworkCore;
-using Searchify.Core.Model;
-using Searchify.DataAccessLayer;
+﻿using Microsoft.EntityFrameworkCore;
+using Searchify.Domain.Model;
+using Searchify.Infrastructure;
+using Searchify.Infrastructure.Repositories;
 
-namespace TestProject.DataAccessLayerTests
+namespace Searchify.Test.DataAccessLayerTests
 {
     public class ProductsRepositoryTests
     {
@@ -97,4 +93,4 @@ namespace TestProject.DataAccessLayerTests
     }
 }
 
-        
+

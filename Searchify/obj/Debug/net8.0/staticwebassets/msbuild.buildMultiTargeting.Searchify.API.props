@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Searchify.API.props" />
+</Project>

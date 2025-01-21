@@ -1,10 +1,9 @@
 using MediatR;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
-using Searchify.Core.Interfaces;
-using Searchify.Mediators.Commands;
+using Searchify.Application.Commands;
 
-namespace Searchify.Controllers
+namespace Searchify.API.Controllers
 {
     [ApiController]
     [Route("/api/products")]
@@ -34,10 +33,8 @@ namespace Searchify.Controllers
             }
             catch (Exception ex)
             {
-
                 return StatusCode(500, new { Message = "An unexpected error occurred.", Detail = ex.Message });
             }
-            
         }
 
         [Authorize]
@@ -46,7 +43,6 @@ namespace Searchify.Controllers
         {
             try
             {
-
                 var command = new GetProductByIdCommand(id);
                 var result = await _mediator.Send(command);
 
@@ -61,7 +57,6 @@ namespace Searchify.Controllers
 
                 return StatusCode(500, new { Message = "An unexpected error occurred.", Detail = ex.Message });
             }
-            
         }
     }
 }

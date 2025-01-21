@@ -1,10 +1,10 @@
 ﻿using MediatR;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
-using Searchify.Core.Model;
-using Searchify.Mediators.Commands;
+using Searchify.Application.Commands;
+using Searchify.Domain.Model;
 
-namespace Searchify.Controllers
+namespace Searchify.API.Controllers
 {
     [Route("api/login")]
     [ApiController]
@@ -29,14 +29,12 @@ namespace Searchify.Controllers
                     return Unauthorized();
                 }
                 return Ok(token);
-
             }
             catch (Exception ex)
             {
-
                 return StatusCode(500, new { Message = "An unexpected error occurred.", Detail = ex.Message });
             }
-            
+
         }
     }
 }

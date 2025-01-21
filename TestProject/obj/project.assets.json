@@ -3894,26 +3894,63 @@
           "build/net6.0/xunit.runner.visualstudio.props": {}
         }
       },
-      "Searchify/1.0.0": {
+      "Searchify.API/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
-          "MediatR": "12.4.1",
-          "Microsoft.AspNetCore.Authentication.JwtBearer": "8.0.12",
           "Microsoft.AspNetCore.Mvc": "2.3.0",
-          "Microsoft.EntityFrameworkCore": "9.0.1",
-          "Microsoft.EntityFrameworkCore.SqlServer": "9.0.1",
+          "Searchify.Infrastructure": "1.0.0",
           "Swashbuckle.AspNetCore": "6.6.2"
         },
         "compile": {
-          "bin/placeholder/Searchify.dll": {}
+          "bin/placeholder/Searchify.API.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Searchify.dll": {}
+          "bin/placeholder/Searchify.API.dll": {}
         },
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
+      },
+      "Searchify.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "MediatR": "12.4.1",
+          "Searchify.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Searchify.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Searchify.Application.dll": {}
+        }
+      },
+      "Searchify.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Searchify.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Searchify.Domain.dll": {}
+        }
+      },
+      "Searchify.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Authentication.JwtBearer": "8.0.12",
+          "Microsoft.EntityFrameworkCore": "9.0.1",
+          "Microsoft.EntityFrameworkCore.SqlServer": "9.0.1",
+          "Searchify.Application": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Searchify.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Searchify.Infrastructure.dll": {}
+        }
       }
     }
   },
@@ -10778,10 +10815,25 @@
         "xunit.runner.visualstudio.nuspec"
       ]
     },
-    "Searchify/1.0.0": {
+    "Searchify.API/1.0.0": {
       "type": "project",
-      "path": "../Searchify/Searchify.csproj",
-      "msbuildProject": "../Searchify/Searchify.csproj"
+      "path": "../Searchify/Searchify.API.csproj",
+      "msbuildProject": "../Searchify/Searchify.API.csproj"
+    },
+    "Searchify.Application/1.0.0": {
+      "type": "project",
+      "path": "../Searchify.Application/Searchify.Application.csproj",
+      "msbuildProject": "../Searchify.Application/Searchify.Application.csproj"
+    },
+    "Searchify.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Searchify.Domain/Searchify.Domain.csproj",
+      "msbuildProject": "../Searchify.Domain/Searchify.Domain.csproj"
+    },
+    "Searchify.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../Searchify.InfraStructure/Searchify.Infrastructure.csproj",
+      "msbuildProject": "../Searchify.InfraStructure/Searchify.Infrastructure.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -10789,7 +10841,7 @@
       "Microsoft.EntityFrameworkCore.InMemory >= 9.0.1",
       "Microsoft.NET.Test.Sdk >= 17.12.0",
       "Moq >= 4.20.72",
-      "Searchify >= 1.0.0",
+      "Searchify.API >= 1.0.0",
       "coverlet.collector >= 6.0.0",
       "xunit >= 2.9.3",
       "xunit.runner.visualstudio >= 3.0.1"
@@ -10802,9 +10854,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Deepak\\Desktop\\Searchify\\Searchify\\TestProject\\TestProject.csproj",
-      "projectName": "TestProject",
-      "projectPath": "C:\\Users\\Deepak\\Desktop\\Searchify\\Searchify\\TestProject\\TestProject.csproj",
+      "projectUniqueName": "C:\\Users\\Deepak\\Desktop\\Searchify\\Searchify\\TestProject\\Searchify.Test.csproj",
+      "projectName": "Searchify.Test",
+      "projectPath": "C:\\Users\\Deepak\\Desktop\\Searchify\\Searchify\\TestProject\\Searchify.Test.csproj",
       "packagesPath": "C:\\Users\\Deepak\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Deepak\\Desktop\\Searchify\\Searchify\\TestProject\\obj\\",
       "projectStyle": "PackageReference",
@@ -10827,8 +10879,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Deepak\\Desktop\\Searchify\\Searchify\\Searchify\\Searchify.csproj": {
-              "projectPath": "C:\\Users\\Deepak\\Desktop\\Searchify\\Searchify\\Searchify\\Searchify.csproj"
+            "C:\\Users\\Deepak\\Desktop\\Searchify\\Searchify\\Searchify\\Searchify.API.csproj": {
+              "projectPath": "C:\\Users\\Deepak\\Desktop\\Searchify\\Searchify\\Searchify\\Searchify.API.csproj"
             }
           }
         }

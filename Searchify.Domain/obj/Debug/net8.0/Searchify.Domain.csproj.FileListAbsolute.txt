@@ -1,0 +1,12 @@
+C:\Users\Deepak\Desktop\Searchify\Searchify\Searchify.Domain\bin\Debug\net8.0\Searchify.Domain.deps.json
+C:\Users\Deepak\Desktop\Searchify\Searchify\Searchify.Domain\bin\Debug\net8.0\Searchify.Domain.dll
+C:\Users\Deepak\Desktop\Searchify\Searchify\Searchify.Domain\bin\Debug\net8.0\Searchify.Domain.pdb
+C:\Users\Deepak\Desktop\Searchify\Searchify\Searchify.Domain\obj\Debug\net8.0\Searchify.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deepak\Desktop\Searchify\Searchify\Searchify.Domain\obj\Debug\net8.0\Searchify.Domain.AssemblyInfoInputs.cache
+C:\Users\Deepak\Desktop\Searchify\Searchify\Searchify.Domain\obj\Debug\net8.0\Searchify.Domain.AssemblyInfo.cs
+C:\Users\Deepak\Desktop\Searchify\Searchify\Searchify.Domain\obj\Debug\net8.0\Searchify.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Deepak\Desktop\Searchify\Searchify\Searchify.Domain\obj\Debug\net8.0\Searchify.Domain.sourcelink.json
+C:\Users\Deepak\Desktop\Searchify\Searchify\Searchify.Domain\obj\Debug\net8.0\Searchify.Domain.dll
+C:\Users\Deepak\Desktop\Searchify\Searchify\Searchify.Domain\obj\Debug\net8.0\refint\Searchify.Domain.dll
+C:\Users\Deepak\Desktop\Searchify\Searchify\Searchify.Domain\obj\Debug\net8.0\Searchify.Domain.pdb
+C:\Users\Deepak\Desktop\Searchify\Searchify\Searchify.Domain\obj\Debug\net8.0\ref\Searchify.Domain.dll

@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "pMU9k5nDVCl+0/UHm2EcnTpYP1+rOgOPglkxbUSGSEY=",
-  "Source": "Searchify",
-  "BasePath": "_content/Searchify",
+  "Hash": "2rxUPC/+65DHYsUnm2Xdf0iyvSoE90e6qAozqXeAObI=",
+  "Source": "Searchify.API",
+  "BasePath": "_content/Searchify.API",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],

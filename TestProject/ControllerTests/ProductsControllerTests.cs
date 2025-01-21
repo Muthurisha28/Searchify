@@ -2,11 +2,11 @@
 using Microsoft.AspNetCore.Mvc;
 using Moq;
 using Newtonsoft.Json;
-using Searchify.Controllers;
-using Searchify.Core.Model;
-using Searchify.Mediators.Commands;
+using Searchify.API.Controllers;
+using Searchify.Application.Commands;
+using Searchify.Domain.Model;
 
-namespace TestProject.ControllerTests
+namespace Searchify.Test.ControllerTests
 {
     public class ProductsControllerTests
     {
@@ -132,7 +132,7 @@ namespace TestProject.ControllerTests
             var actualJson = JsonConvert.SerializeObject(objectResult.Value);
             Assert.Equal(expectedJson, actualJson);
             Assert.Equal(500, objectResult.StatusCode);
-            
+
         }
     }
 

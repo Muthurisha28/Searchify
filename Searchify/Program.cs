@@ -1,11 +1,13 @@
-using Microsoft.AspNetCore.Authentication.JwtBearer;
 using System.Text;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
-using Searchify.BusinessLayer;
-using Searchify.Core.Interfaces;
-using Searchify.DataAccessLayer;
 using Microsoft.OpenApi.Models;
+using Searchify.Application.Commands;
+using Searchify.Domain.Interfaces;
+using Searchify.Infrastructure;
+using Searchify.Infrastructure.Repositories;
+using Searchify.Infrastructure.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -53,7 +55,7 @@ builder.Services.AddScoped<IProductService, ProductService>();
 builder.Services.AddSingleton<IAuthenticateService, AuthenticateService>();
 builder.Services.AddMediatR(options =>
 {
-    options.RegisterServicesFromAssemblies(typeof(Program).Assembly);
+    options.RegisterServicesFromAssemblies(typeof(AuthenticateCommand).Assembly);
 });
 
 builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme).AddJwtBearer(options =>

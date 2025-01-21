@@ -1,0 +1,16 @@
+C:\Users\Deepak\Desktop\Searchify\Searchify\Searchify.Application\bin\Debug\net8.0\Searchify.Application.deps.json
+C:\Users\Deepak\Desktop\Searchify\Searchify\Searchify.Application\bin\Debug\net8.0\Searchify.Application.dll
+C:\Users\Deepak\Desktop\Searchify\Searchify\Searchify.Application\bin\Debug\net8.0\Searchify.Application.pdb
+C:\Users\Deepak\Desktop\Searchify\Searchify\Searchify.Application\bin\Debug\net8.0\Searchify.Domain.dll
+C:\Users\Deepak\Desktop\Searchify\Searchify\Searchify.Application\bin\Debug\net8.0\Searchify.Domain.pdb
+C:\Users\Deepak\Desktop\Searchify\Searchify\Searchify.Application\obj\Debug\net8.0\Searchify.Application.csproj.AssemblyReference.cache
+C:\Users\Deepak\Desktop\Searchify\Searchify\Searchify.Application\obj\Debug\net8.0\Searchify.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deepak\Desktop\Searchify\Searchify\Searchify.Application\obj\Debug\net8.0\Searchify.Application.AssemblyInfoInputs.cache
+C:\Users\Deepak\Desktop\Searchify\Searchify\Searchify.Application\obj\Debug\net8.0\Searchify.Application.AssemblyInfo.cs
+C:\Users\Deepak\Desktop\Searchify\Searchify\Searchify.Application\obj\Debug\net8.0\Searchify.Application.csproj.CoreCompileInputs.cache
+C:\Users\Deepak\Desktop\Searchify\Searchify\Searchify.Application\obj\Debug\net8.0\Searchify.Application.sourcelink.json
+C:\Users\Deepak\Desktop\Searchify\Searchify\Searchify.Application\obj\Debug\net8.0\Searchif.69BD800E.Up2Date
+C:\Users\Deepak\Desktop\Searchify\Searchify\Searchify.Application\obj\Debug\net8.0\Searchify.Application.dll
+C:\Users\Deepak\Desktop\Searchify\Searchify\Searchify.Application\obj\Debug\net8.0\refint\Searchify.Application.dll
+C:\Users\Deepak\Desktop\Searchify\Searchify\Searchify.Application\obj\Debug\net8.0\Searchify.Application.pdb
+C:\Users\Deepak\Desktop\Searchify\Searchify\Searchify.Application\obj\Debug\net8.0\ref\Searchify.Application.dll

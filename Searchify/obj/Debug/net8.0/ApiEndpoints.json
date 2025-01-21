@@ -1,6 +1,6 @@
 [
   {
-    "ContainingType": "Searchify.Controllers.LoginController",
+    "ContainingType": "Searchify.API.Controllers.LoginController",
     "Method": "Login",
     "RelativePath": "api/login",
     "HttpMethod": "POST",
@@ -9,14 +9,14 @@
     "Parameters": [
       {
         "Name": "user",
-        "Type": "Searchify.Core.Model.User",
+        "Type": "Searchify.Domain.Model.User",
         "IsRequired": true
       }
     ],
     "ReturnTypes": []
   },
   {
-    "ContainingType": "Searchify.Controllers.ProductsController",
+    "ContainingType": "Searchify.API.Controllers.ProductsController",
     "Method": "GetProducts",
     "RelativePath": "api/products",
     "HttpMethod": "GET",
@@ -26,7 +26,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "Searchify.Controllers.ProductsController",
+    "ContainingType": "Searchify.API.Controllers.ProductsController",
     "Method": "GetProductById",
     "RelativePath": "api/products/{id}",
     "HttpMethod": "GET",
